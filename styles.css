@@ -49,3 +49,22 @@ button {
 button:hover {
     background-color: #555;
 }
+
+/* "View in Github" Button */
+.github-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease;
+}
+
+.github-btn:hover {
+    background-color: #f0f0f0;
+}
