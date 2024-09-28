@@ -1,8 +1,5 @@
-# Daily-Quotes
+# Daily-Insults
 
-Ever felt extremely down? Need a boost? Well look no further, with Daily Quotes! By a click of a button you can get insane motivation! And, help you empower yourself throughout the day.
+This was forked and then edited for Daily-Insults! View the original at altztechz-github.io/Daily-Quotes
 
-
-
-
-(P.S: This website is a joke and isn't supposed to be used for serious purposes)
+Ever wanted to be roasted? Ever wanted to just take a huge sucker punch to the stomach? Well now you can get that with Daily insults! Get told you smell and your ugly and much, much more!
