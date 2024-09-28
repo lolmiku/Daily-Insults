@@ -1,5 +1,5 @@
 const quotes = [
-    "Success is hard work, not talent.",
+    "you have no life.",
     "The best way to predict the future is to invent it.",
     "Do what you can, with what you have, where you are.",
     "The only way to do great work is to love what you do.",
